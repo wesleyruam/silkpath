@@ -1,4 +1,4 @@
----
+
 
 ### 🕷️ SILKPATH — Multithreaded Web Crawler for Reconnaissance
 
@@ -36,5 +36,3 @@ pip install -r requirements.txt
 
 **Wesley Ruan**
 GitHub: [@wesleyruam](https://github.com/wesleyruam)
-
----
