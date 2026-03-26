@@ -30,7 +30,7 @@
 ### Clonando o Repositório
 
 ```bash
-git clone https://github.com/yourusername/silkpath.git
+git clone https://github.com/wesleyruam/silkpath.git
 cd silkpath
 ```
 
